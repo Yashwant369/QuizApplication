@@ -2,7 +2,7 @@
 
 Welcome to the QuizApplication repository! This microservices-based quiz application consists of two services: the Question Service and the Quiz Service. It enables users to perform various operations like creating, updating, deleting, and retrieving questions. Additionally, users can take quizzes, attempt questions, and receive scores through the Quiz Service. The application is built using Java and the Spring ecosystem, including Spring Boot, Spring MVC, Spring Data JPA, Eureka Server for service registry, Feign for microservice communication, and load balancing for optimized performance.
 
-**Made by YASHWANT456** - [GitHub Profile](https://github.com/YASHWANT456)
+
 
 ## Table of Contents
 
