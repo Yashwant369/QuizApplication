@@ -1,0 +1,12 @@
+package com.rishu.quizservice.dao;
+
+import lombok.Data;
+
+@Data
+public class QuizDao {
+	
+	String category;
+	Integer numQ;
+	String title;
+
+}

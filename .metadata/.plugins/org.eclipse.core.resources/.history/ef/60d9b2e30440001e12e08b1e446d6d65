@@ -1,0 +1,5 @@
+package com.rishu.quizservice.dao;
+
+public class QuizDao {
+
+}

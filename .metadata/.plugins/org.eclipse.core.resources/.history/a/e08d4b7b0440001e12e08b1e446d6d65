@@ -1,0 +1,5 @@
+package com.rishu.quizservice.controller;
+
+public class QuizDto {
+
+}
